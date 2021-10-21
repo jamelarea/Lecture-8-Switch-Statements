@@ -101,7 +101,7 @@ SLIDE 3, Fuel me Up
 
                 break;
             default: //other inputs besides P (Petrol) and D (Diesel)
-                cout << "\nInvalid Response. Please try again. " << endl;
+                cout << "\nInvalid Response. " << endl;
             }
         }
         else //if not Y (Yes)
